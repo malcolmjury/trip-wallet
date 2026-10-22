@@ -1,5 +1,5 @@
 // Bump VERSION whenever the app files change so phones pick up the update.
-const VERSION = "trip-wallet-v2";
+const VERSION = "trip-wallet-v3";
 const CORE = ["./", "index.html", "manifest.webmanifest", "apple-touch-icon.png", "icon-192.png", "icon-512.png"];
 
 self.addEventListener("install", (e) => {
